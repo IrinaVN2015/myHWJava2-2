@@ -12,8 +12,8 @@ public class Main {
             System.out.println((deposit / 100 + " количество бонусных рублей "));
         } else {
             System.out.println(allMoney + " итоговый счет ");
-       }
-
         }
- }
+
+    }
+}
 
